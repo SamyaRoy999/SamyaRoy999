@@ -61,3 +61,14 @@ I build frontend web applications with a passion for clean UI, error-free code, 
     </a>
 
 </p>
+
+
+## GitHub Stats
+
+
+<br/>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=SamyaRoy999&theme=dark" alt="GitHub Streak">
+  </a>
+</p>
