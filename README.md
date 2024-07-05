@@ -9,6 +9,20 @@
 <br/>
 I build frontend web applications with a passion for clean UI, error-free code, and great performance. I love coding, and most of the time, I work with JavaScript tools and techniques.
 
+
+## GitHub Stats
+
+
+<br/>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=SamyaRoy999&theme=dark" alt="GitHub Streak">
+  </a>
+</p>
+
+<br/>
+
+
 ## :computer: Technologies that I am familiar
 
 
@@ -63,12 +77,6 @@ I build frontend web applications with a passion for clean UI, error-free code, 
 </p>
 
 
-## GitHub Stats
+</br>
 
 
-<br/>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SamyaRoy999&theme=dark" alt="GitHub Streak">
-  </a>
-</p>
