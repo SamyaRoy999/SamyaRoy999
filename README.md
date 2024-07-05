@@ -10,7 +10,7 @@
 I build frontend web applications with a passion for clean UI, error-free code, and great performance. I love coding, and most of the time, I work with JavaScript tools and techniques.
 
 
-## GitHub Stats
+## :chart_with_upwards_trend: Current Stats
 
 
 <br/>
