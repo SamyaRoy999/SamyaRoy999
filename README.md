@@ -12,15 +12,14 @@ I build frontend web applications with a passion for clean UI, error-free code, 
 
 ## :chart_with_upwards_trend: Current Stats
 
-
 <br/>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=SamyaRoy999&theme=dark" alt="GitHub Streak">
   </a>
 </p>
-
 <br/>
+
 
 
 ## :computer: Technologies that I am familiar
