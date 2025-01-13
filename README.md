@@ -11,18 +11,17 @@ I build frontend web applications with a passion for clean UI, error-free code, 
 
 
 ## :chart_with_upwards_trend: Current Stats
-
-<br/>
+<!-- GitHub Stats -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SamyaRoy999&theme=dark" alt="GitHub Streak">
-  </a>
-</p>
-<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamyaRoy999&theme=radical" alt="GitHub Stats">
+</p> 
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamyaRoy999&theme=radical&v=1" alt="GitHub Stats">
 </p>
 
+
+<br/>
 
 
 ## :computer: Technologies that I am familiar
