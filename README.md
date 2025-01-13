@@ -5,23 +5,13 @@
 
 ## 🚀 About Me
 
-
 <br/>
-I build frontend web applications with a passion for clean UI, error-free code, and great performance. I love coding, and most of the time, I work with JavaScript tools and techniques.
-
-
-## :chart_with_upwards_trend: Current Stats
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamyaRoy999&theme=radical&v=1" alt="GitHub Stats">
-</p>
-
-
-<br/>
-
+As a passionate and dedicated MERN Stack Developer, I strive to leverage my technical expertise to contribute effectively to impactful
+projects and drive organizational success. My goal is to grow into a Senior Full-Stack Developer role by delivering innovative,
+scalable, and user-centric solutions. With a commitment to continuous learning, I aim to stay updated with emerging technologies and
+bring value through intuitive design and robust development practices.
 
 ## :computer: Technologies that I am familiar
-
 
 ### Languages
 <p align="center">
@@ -54,4 +44,12 @@ I build frontend web applications with a passion for clean UI, error-free code, 
    <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
    <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"></a>
 </p>
+
+## :chart_with_upwards_trend: Current Stats
+<!-- GitHub Stats -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamyaRoy999&theme=radical&v=1" alt="GitHub Stats">
+</p>
+
 
