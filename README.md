@@ -19,6 +19,9 @@ I build frontend web applications with a passion for clean UI, error-free code, 
   </a>
 </p>
 <br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamyaRoy999&theme=radical&v=1" alt="GitHub Stats">
+</p>
 
 
 
