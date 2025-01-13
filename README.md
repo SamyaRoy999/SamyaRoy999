@@ -13,10 +13,6 @@ I build frontend web applications with a passion for clean UI, error-free code, 
 ## :chart_with_upwards_trend: Current Stats
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamyaRoy999&theme=radical" alt="GitHub Stats">
-</p> 
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamyaRoy999&theme=radical&v=1" alt="GitHub Stats">
 </p>
 
